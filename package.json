@@ -9,9 +9,14 @@
     "type": "git",
     "url": "git+https://github.com/edsonv/Platzi---Backend-con-ExpressJS-y-Node.git"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "keywords": [
+    "expressjs",
+    "node",
+    "backend",
+    "platzi"
+  ],
+  "author": "Edson Vargas <e.vargas@msn.com>",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/edsonv/Platzi---Backend-con-ExpressJS-y-Node/issues"
   },
